@@ -1,0 +1,107 @@
+{
+  "Category": [
+    {
+      "id": 1,
+      "title": "Trà chanh",
+      "price": "15000 đ",
+      "price_sell": "15000 đ",
+      "sold": "258 lượt mua",
+      "image": "https://f8-zpcloud.zdn.vn/8002374083657843950/a12586d7ca40131e4a51.jpg",
+      "releaseDate": "12/11/2020",
+      "retail": "15000 đ",
+      "type": "Trà chanh"
+    },
+    {
+      "id": 2,
+      "title": "Sữa Dừa",
+      "price": "25000 đ",
+      "price_sell": "25000 đ",
+      "sold": "400 lượt mua",
+      "image": "https://f7-zpcloud.zdn.vn/1806688371913561655/c6dd01294dbe94e0cdaf.jpg",
+      "releaseDate": "12/11/2020",
+      "retail": "25000 đ",
+      "type": "Sữa"
+    },
+    {
+      "id": 3,
+      "title": "Matcha",
+      "price": "35000 đ",
+      "sold": "461 Sold",
+      "image": "https://f8-zpcloud.zdn.vn/6180578512646669369/5e5429a66531bc6fe520.jpg",
+      "releaseDate": "12/11/2020",
+      "retail": "35000 đ",
+      "type": "Matcha"
+    },
+    {
+      "id": 4,
+      "title": "Hồng trà sữa",
+      "price": "29000 đ",
+      "sold": "500 lượt mua",
+      "image": "https://f8-zpcloud.zdn.vn/8277508527422300337/ee6de14b1ed7c7899ec6.jpg",
+      "releaseDate": "12/11/2020",
+      "retail": "29000 đ",
+      "type": "Hồng Trà Sữa"
+    },
+    {
+      "id": 5,
+      "title": "sữa tươi",
+      "price": "20000 đ",
+      "sold": "84 lượt mua",
+      "image": "https://f7-zpcloud.zdn.vn/299201717171517592/60c47a3436a3effdb6b2.jpg",
+      "releaseDate": "12/11/2020",
+      "retail": "20000 đ",
+      "type": "Sữa"
+    },
+    {
+      "id": 6,
+      "title": "Chocolate",
+      "price": "35000 đ",
+      "sold": "350 lượt mua",
+      "image": "https://f8-zpcloud.zdn.vn/8688348319950461349/613b1ea752308b6ed221.jpg",
+      "releaseDate": "12/11/2020",
+      "retail": "35000 đ",
+      "type": "Chocolate"
+    },
+    {
+      "id": 7,
+      "title": "Cafe đen",
+      "price": "20000 đ",
+      "sold": "125 lượt mua",
+      "image": "https://f7-zpcloud.zdn.vn/4123623309820412718/6f5cafe8e37f3a21636e.jpg",
+      "releaseDate": "12/11/2021",
+      "retail": "20000 đ",
+      "type": "Cafe"
+    },
+    {
+      "id": 8,
+      "title": "Cafe nâu",
+      "price": "25000 đ",
+      "sold": "150 lượt mua",
+      "image": "https://f8-zpcloud.zdn.vn/5033319725390627038/052227916b06b258eb17.jpg",
+      "releaseDate": "12/11/2021",
+      "retail": "25000 đ",
+      "type": "Cafe"
+    },
+    {
+      "id": 9,
+      "title": "Bạc xỉu",
+      "price": "27000 đ",
+      "sold": "98 lượt mua",
+      "image": "https://cdn.tgdd.vn/2021/03/CookProduct/Bac-xiu-la-gi-nguon-goc-va-cach-lam-bac-xiu-thom-ngon-don-gian-tai-nha-0-1200x676.jpg",
+      "releaseDate": "12/11/2021",
+      "retail": "27000 đ",
+      "type": "Cafe"
+    },
+
+    {
+      "id": 10,
+      "title": "Capuchino",
+      "price": "40000 đ",
+      "sold": "40 lượt mua",
+      "image": "https://f5-zpcloud.zdn.vn/7054278055015963858/1aa68595be0a67543e1b.jpg",
+      "releaseDate": "12/6/2021",
+      "retail": "40000 đ",
+      "type": "Cafe"
+    }
+  ]
+}
